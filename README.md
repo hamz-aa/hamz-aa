@@ -14,7 +14,6 @@ I'm pursuing my goal of becoming a MERN stack developer.<br>I've worked on quite
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=hamz-aa&theme=matrix&no-frame=true&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
