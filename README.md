@@ -14,11 +14,11 @@ I'm pursuing my goal of becoming a MERN stack developer.<br>I've worked on quite
 <a><img height="200" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hamz-aa&theme=dark&hide_border=false"></a>
 <a><img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamz-aa&size_weight=0.5&count_weight=0.5&langs_count=7&layout=compact&theme=dark"> </a>
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hamz_a&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hamz_aa&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@Hamz_a/0f610073-c287-44c7-b4bf-377c7db69c94.png" width="400px" align="center" /></a>
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@Hamz_a/61e04d43-5d41-4573-9685-88f8e2b157a4.png" width="400px" align="center" /></a>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@Hamz_aa/0f610073-c287-44c7-b4bf-377c7db69c94.png" width="400px" align="center" /></a>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@Hamz_aa/61e04d43-5d41-4573-9685-88f8e2b157a4.png" width="400px" align="center" /></a>
 <br>
 <br>
 
