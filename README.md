@@ -12,7 +12,7 @@ I'm pursuing my goal of becoming a MERN stack developer.<br>I've worked on quite
 
 # 📊 Coding Stats:
 <a><img height="200" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hamz-aa&theme=dark&hide_border=false"></a>
-<a><img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamz-aa&size_weight=0.5&count_weight=0.5&langs_count=7&layout=compact&theme=dark"> </a>
+<a><img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamz-aa&size_weight=0&count_weight=1&langs_count=7&layout=compact&theme=dark"> </a>
 
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hamz_aa&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
